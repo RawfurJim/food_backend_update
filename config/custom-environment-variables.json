@@ -1,0 +1,4 @@
+{
+	"CustomerjwtPrivatekey": "Customer_jwt",
+    "UserjwtPrivatekey":"User_jwt"
+}
